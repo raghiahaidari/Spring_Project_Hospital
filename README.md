@@ -1,4 +1,8 @@
 
+# Hospital : using ORM, JPA, Hibernate and Spring Data
+
+This practical work focuses on implementing Object-Relational Mapping (ORM) concepts using Java Persistence API (JPA), Hibernate, and Spring Data. The main goal is to create a Spring Boot project that manages patient information using JPA and Hibernate, with the ability to switch from an in-memory H2 database to MySQL.
+
 ### Definitions
 - ORM (Object-Relational Mapping): ORM is a programming technique that converts data between incompatible systems using object-oriented programming languages and relational databases.
 - JPA (Java Persistence API): JPA is a Java specification for managing relational data in Java applications. It provides a set of interfaces and annotations for ORM.
