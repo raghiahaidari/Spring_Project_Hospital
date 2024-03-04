@@ -19,8 +19,7 @@ This practical work focuses on implementing Object-Relational Mapping (ORM) conc
 ## 🛠 Skills
 Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | Spring Boot ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | Object-Relational Mapping (ORM) ![ORM](https://img.icons8.com/ios-filled/50/000000/database-restore.png) | Java Persistence API (JPA) ![JPA](https://img.icons8.com/ios-filled/50/000000/database-restore.png) | Hibernate ![Hibernate](https://img.icons8.com/windows/48/000000/hibernate.png)
 --- | --- | --- | --- | ---
-Spring Data ![Spring Data](https://img.icons8.com/ios-filled/50/000000/database-restore.png) | RESTful Web Services ![RESTful](https://img.icons8.com/windows/48/000000/api-settings.png) | H2 Database ![H2 Database](https://img.icons8.com/dusk/64/000000/database-restore.png) | MySQL Database ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | 
-Lombok ![Lombok](https://img.icons8.com/color/48/000000/lombok.png) | Database Migration ![Database Migration](https://img.icons8.com/ios-filled/50/000000/database-restore.png) | 
+Spring Data ![Spring Data](https://img.icons8.com/ios-filled/50/000000/database-restore.png) | RESTful Web Services ![RESTful](https://img.icons8.com/windows/48/000000/api-settings.png) | H2 Database ![H2 Database](https://img.icons8.com/dusk/64/000000/database-restore.png) | MySQL Database ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | Database Migration ![Database Migration](https://img.icons8.com/ios-filled/50/000000/database-restore.png) | 
 
 
 
